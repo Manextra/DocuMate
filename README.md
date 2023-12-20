@@ -1,4 +1,4 @@
-It is a Docs Mini App using framer motion for animation,foreground background cocepts and tailwind for styling..Happy coding!
+It is a Docs Mini App using framer motion for animations,foreground background cocepts and tailwind for styling..Happy coding!
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
